@@ -294,7 +294,7 @@ This can be useful when certain types definitions have errors that are not fatal
 Allows use of TypeScript compilers other than the official one. Should be
 set to the NPM name of the compiler, eg [`ntypescript`](https://github.com/basarat/ntypescript).
 
-#### configFile _(string) (default='tsconfig.json')_
+#### configFileName _(string) (default='tsconfig.json')_
 
 Allows you to specify where to find the TypeScript configuration file.
 
